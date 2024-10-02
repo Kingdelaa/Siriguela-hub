@@ -27,3 +27,17 @@ tab.newButton("Redz Hub🍒", "Execute me!", function()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
 end)
+
+
+local tab = DrRayLibrary.newTab("🍒MENU DOORS🍒", "ImageIdHere")
+
+tab.newButton("Mspaint V2🍒", "Execute me!", function()
+    
+loadstring(game: HttpGet("https://raw.github usercontent.com/notpoiu/mspaint/main/ma in.lua"))()
+end)
+
+
+tab.newButton("Ffj1 Script🍒", "Execute me!", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/Loader.lua"))()
+end)
