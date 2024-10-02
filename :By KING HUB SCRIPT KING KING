@@ -16,3 +16,14 @@ tab.newButton("Quantum🍒", "Execute me!", function()
 loadstring(game:HttpGet"https://quantum-onyx-nextgeneration.vercel.app/QuantumOnyxTeamMainHub.lua")()
 end)
 
+
+tab.newButton("Trash Lua🍒", "Execute me!", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TrashLua/BloxFruits/main/FreeScripts.lua"))()
+end)
+
+
+tab.newButton("Redz Hub🍒", "Execute me!", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
+end)
