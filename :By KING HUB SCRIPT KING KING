@@ -28,3 +28,8 @@ tab.newButton("Redz Hub🍒", "Execute me!", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
 end)
 
+
+tab.newButton("Knuxx Hub🍒", "Execute me!", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptztyz/robloxscript/main/Knuxxhub"))()
+end)
