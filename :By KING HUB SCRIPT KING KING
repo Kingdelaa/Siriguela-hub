@@ -4,7 +4,7 @@ local window = DrRayLibrary:Load("Siriguela Hub🍒", "Default")
 
 local tab = DrRayLibrary.newTab("🍒MENU BLOX FRUTIS🍒", "ImageIdHere")
 
-tab.newButton("Hoho Hub🍒", "Execute me!", function()
+tab.newButton("Hoho Hub(Key)🍒", "Execute me!", function()
     
 _G.HohoVersion = "v4"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()
@@ -29,7 +29,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/ma
 end)
 
 
-tab.newButton("Knuxx Hub🍒", "Execute me!", function()
+tab.newButton("Knuxx Hub(Key)🍒", "Execute me!", function()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptztyz/robloxscript/main/Knuxxhub"))()
 end)
