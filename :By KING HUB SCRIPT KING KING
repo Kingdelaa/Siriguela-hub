@@ -21,6 +21,9 @@ local Tab2 = Window:MakeTab({"🍒Universal", "cool"})
 
 local Tab3 = Window:MakeTab({"🍒Doors", "cool"})
 
+local Tab4 = Window:MakeTab({"🍒Blade Ball", "cool"})
+
+
 --Buttons 1
 
 Tab1:AddButton({"Hoho Hub(Key)🍒", function()
@@ -84,9 +87,29 @@ Tab2:AddSlider({
   end
 })
 
---Buttons 2
+--Buttons 3
 
 Tab3:AddButton({"Ffj1 Script🍒", function()
+print("Hello World!")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/Loader.lua"))()
+end})
+
+
+Tab3:AddButton({"Mspaint V2🍒", function()
+print("Hello World!")
+loadstring(game: HttpGet("https://raw.githubusercontent.com/notpoiu/mspaint/main/main.lua"))()
+end})
+
+--Buttons 4
+
+
+Tab4:AddButton({"LUNAXX HUB🍒", function()
+print("Hello World!")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Alexisisback/Universall/refs/heads/main/Testblade.lua", true))()
+end})
+
+
+Tab4:AddButton({"Ffj1 Blade🍒", function()
 print("Hello World!")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/Loader.lua"))()
 end})
